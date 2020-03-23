@@ -1,1 +1,15 @@
-a
+name: 'TechnoHelpers'
+description: 'Help Internet'
+author: 'Poora, Niks'
+inputs:
+  website:
+    description: 'Website Name with 2FA login'
+    required: true
+    default: NA
+  path:
+    description: 'Path of chrome and excel sheet'
+    required: true
+    default: NA
+outputs:
+ excel: excel sheet file
+   description: 'With all required data'
