@@ -121,7 +121,7 @@ Optional Variables:
 {
   
  graphitePort: 2003
-      , graphiteHost: "usdl653.spe.sony.com"
+      , graphiteHost: "server-name"
       , port: 8125
       , graphite: {
          legacyNamespace: false
