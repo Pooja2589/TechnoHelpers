@@ -1,0 +1,53 @@
+#--------------------------------------------------
+# Junk that could exist anywhere:
+.DS_Store
+*.swp
+*.tmp
+.*.gz
+
+
+#--------------------------------------------------
+# Temporary files created by Eclipse
+.tmp*
+
+
+#--------------------------------------------------
+# Editor junk
+*.project
+/.pydevproject
+/.settings/
+/.settings.xml
+/.settings.xml.old
+/.idea/
+
+
+#--------------------------------------------------
+# Build Files
+/extension/build/
+/extension/release/
+*.graphml
+
+# Output folders.  Created during build.
+/webapp-build/
+/webapp-jsdoc/
+
+#--------------------------------------------------
+# Files from NPM
+/extension/node_modules/
+/node_modules/
+
+# Extensions
+/extension/firebug@software.joehewitt.com
+
+
+#--------------------------------------------------
+# Intern test files
+
+# Istanbul code coverage HTML report.
+/html-report/
+
+# Istanbul lcov data.
+/lcov.info
+
+# Test results in JUnit format.
+/report.xml

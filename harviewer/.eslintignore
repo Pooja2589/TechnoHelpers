@@ -1,0 +1,23 @@
+# 3rd party
+webapp/scripts/jquery.js
+webapp/scripts/i18n.js
+webapp/scripts/require.js
+webapp/scripts/text.js
+webapp/scripts/downloadify
+webapp/scripts/excanvas
+webapp/scripts/json-query
+webapp/scripts/preview/jsonSchema.js
+webapp/scripts/preview/ref.js
+webapp/scripts/syntax-highlighter/
+
+# Domplate is not like the rest of the code.
+webapp/scripts/domplate
+
+# NLS has different indentation to rest of the code.
+webapp/scripts/nls
+
+# Examples are HARs and HARPs and should not be linted.
+webapp/examples
+
+# Build
+webapp-build/
