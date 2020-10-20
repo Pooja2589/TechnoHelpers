@@ -15,7 +15,11 @@ And you can mix API and UI test-automation within the same test script.
 
 ## Example
 * Sample code and test sceario file is attached for GET / POST and JSON / XML 
+* Standalone can be used as from command prompt in windows as: karate src/demo/web/google.feature
 * The setup is very simple. Just download either the standalone or the sample code, change the data and start the testing
+  * Run the TestRunner.java as JUnit Test and open the last line of the console output ( the report )
+  * Sample output files
+  ![Alt text](https://github.com/Pooja2589/TechnoHelpers/blob/master/karate/Sample_screenshot.jpg)
 
 
 ##Reference
