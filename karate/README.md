@@ -21,6 +21,13 @@ And you can mix API and UI test-automation within the same test script.
   * Sample output files
   ![Alt text](https://github.com/Pooja2589/TechnoHelpers/blob/master/karate/Sample_screenshot.jpg)
 
+## Performance Load Testing
+ * Scala file is required to trigger the testsuite with the setup
+ * Different scenarios static / dynamic parameter can be injected with ramp up / ramp down 
+ * Run the test using the command:
+   * mvn clean test-compile gatling:test
+ * Output
+ ![Alt text](https://github.com/Pooja2589/TechnoHelpers/blob/master/karate/Sample_screenshot_perf.jpg)
 
-##Reference
-*https://intuit.github.io/karate/
+## Reference
+* https://intuit.github.io/karate/
