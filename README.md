@@ -1,6 +1,9 @@
 # TechnoHelpers
 Anything related to Tech for any problem statement
 
+# Mobile
+  * React native based mobile application
+
 # Python
   * Data Scrapping from a Table in Web Page to Excel Sheet [Code Link](https://github.com/NiksTheLearner/TechnoHelpers/tree/Python)
 
@@ -13,3 +16,6 @@ Anything related to Tech for any problem statement
    * Download the harviewer complete project
    * run npm install
    * hit - http://localhost:49001/webapp/
+   
+# Karate
+  * Cucumber / Gherkin style based testing using karate for api with custom data
