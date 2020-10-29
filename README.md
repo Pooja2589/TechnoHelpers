@@ -19,3 +19,7 @@ Anything related to Tech for any problem statement
    
 # Karate
   * Cucumber / Gherkin style based testing using karate for api with custom data
+  
+# SoapUI
+  * Testing soap wsdl, rest, get post xml
+  * intsallable tool free version available
